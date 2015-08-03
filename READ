@@ -1,0 +1,4 @@
+为文件共享系统添加一个GUI客户端。
+用到wxpython工具包
+可以使用下面的命令运行：
+	python guiclient.py urlfile.txt file/ http://localhost:8080
